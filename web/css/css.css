@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+*{padding:0; margin:0; text-decoration:none; list-style:none;}
+html,
+body {
+  height: 100%;
+  max-width: 100%;
+  margin: 0;
+  overflow: hidden;
+  font-family: sans-serif;
+}
+
+#space {
+  width:100%;
+  height:auto;
+  
+}
+.cc{
+	margin-right:0px !important;
+}
+#warp {
+  position: absolute;
+  z-index: 9;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 20px auto;
+  color: rgba(209, 255, 255, 1);
+}
+.index{width:100%; height:1080px; margin:0 auto; position:absolute; top:0px;left: 0;right: 0;}
+.ka{width:1400px; height:1080px; margin:0 auto;}
+.nav{width:1400px; height:136px; float:left; margin-top:100px; }
+.logo{ float:left; margin-top:12px; margin-left:35px;}
+.nav_zi{ width:290px; height:136px; float:left; margin-left:18px;}
+.nav_zi1{ width:290px;font: bolder 20px "微软雅黑"; color:#f6f0f0; float:left; margin-top:26px;} 
+.nav_zi2{ width:290px;font: bolder 60px "方正大黑简体"; color:#f6f0f0; float:left; margin-left:-3px; margin-bottom:22px;} 
+.nav_daohang{width:970px; height:136px; float:right; margin-top:-136px;}
+.danhang{width:970px; height:auto;}
+.daohang a{ width:115px; height:114px; font:20px "微软雅黑";color: #c1e4fe; background-image: url(../images/nav_1.png); background-repeat:no-repeat; text-align:center; line-height:114px; position:relative; float:right; margin-left:88px;margin-right:28px; margin-top:11px;}
+.daohang .ai{ color:#fff; background-image:url(../images/nav_2.png); width:138px; height:136px; float:right; margin-left:76px; margin-right:17px; margin-top:0px; text-align:center; line-height:136px;}
+/*导航结束*/
+
+.jsjj{width:1310px; height:500px; background-image:url(../images/js_jj.png); background-repeat:no-repeat;float:left; margin-left:15px;}
+.cx{ float:left; margin-left:90px;margin-top:25px; }
+.cx_1{ width:354px; height:232px; border-radius:32px; border: 1px solid RGBA(60,147,250,0.3);float:left;margin-right:78px;}
+.cx_2{ width:354px; height:232px; border-radius:32px; border: 1px solid RGBA(60,147,250,0.3);float:left;}
+.cx_di{width:316px; height:196px; border-radius:23px; background-color:RGBA(255,255,255,0.25);float:left; margin:18px 19px;}
+.cx_1_1{width:143px; height:143px; float:left; margin-left:25px; margin-top:26px;}
+.cx_zi{ width:115px; height:150px; float:left; margin-left:15px;margin-top:26px;}
+.cx_zi1{font:18px "微软雅黑"; color:#f6f0f0;}
+.cx_zi2{font:12px "微软雅黑"; color:#f6f0f0; float:left; margin-top:5px; height:85px; line-height:20px;}
+.cx_btn{width:95px; height:35px; float:right;}
+.dilan{ width:1400px; height:27px; background-image:url(../images/dilan.png); float:left; margin-top:50px;}
+.dilan_zi{font:12px "微软雅黑"; color:#fff; float:left; margin-left:22px; margin-top:6px;}
+.dilan_logo{ width:189px; height:26px;float:right; margin-right:25px;}
+.sz1{font:bolder 30px "黑体"; color:#000; float:left; width:53px; height:53px; text-align:53px; padding-top:5px;}
+/*首页结束*/
+
+.zp_title1{font:26px "方正大黑简体"; color:#fff; float:left; margin-left:50px; margin-top:50px;}
+.zp_title2{font:26px "方正大黑简体"; color:#fff; float:left; margin-left:50px; margin-top:30px;}
+.zp{ float:left; margin-left:50px;margin-top:25px; }
+.zp_1{ width:390px; height:252px; border-radius:32px; border: 1px solid RGBA(60,147,250,0.3);float:left;margin-right:60px;}
+.zp_2{ width:390px; height:252px; border-radius:32px; border: 1px solid RGBA(60,147,250,0.3);float:left; cursor:pointer;}
+.zp_di{width:352px; height:216px; border-radius:23px; background-color:RGBA(255,255,255,0.25);float:left; margin:18px 19px;}
+.zp_1_1{width:143px; height:143px; float:left; margin-left:25px; margin-top:35px;}
+.zp_zi{ width:150px; height:150px; float:left; margin-left:15px;margin-top:35px;}
+.zp_zi1{font:18px "微软雅黑"; color:#f6f0f0;}
+.zp_zi2{font:10px "微软雅黑"; color:#f6f0f0; height:85px; line-height:30px; float:left; margin-top:5px;}
+.zp_btn{width:95px; height:35px; cursor:pointer; float:right;}
+.zp_next{float:right; margin-top:40px; margin-right:50px;}
+.zp_pre{float:right; margin-top:40px; margin-right:20px;}
+.dilan4{ width:1400px; height:27px; background-image:url(../images/dilan.png); float:left; margin-top:30px;}
+.dilan4_zi{font:12px "微软雅黑"; color:#fff; float:left; margin-left:22px; margin-top:6px;}
+.dilan4_logo{ width:189px; height:26px;float:right; margin-right:22px;}
+/*作品展示结束*/
+
+.dilan2{ width:1400px; height:27px; background-image:url(../images/dilan.png); float:left; margin-top:178px;}
+.dilan2_zi{font:12px "微软雅黑"; color:#fff; float:left; margin-left:22px; margin-top:6px;}
+.dilan2_logo{ width:189px; height:26px;float:right; margin-right:22px;}
+/*项目简介结束*/
+
+.xy_xy{ width:156px; height:51px; float:right; margin-right:150px; margin-top:0px; cursor:pointer;}
+.dilan3{ width:1400px; height:27px; background-image:url(../images/dilan.png); float:left; margin-top:25px;}
+.dilan3_zi{font:12px "微软雅黑"; color:#fff; float:left; margin-left:22px; margin-top:6px;}
+.dilan3_logo{ width:189px; height:26px;float:right; margin-right:22px;}
+/*学员信息结束*/
+
+.xy_zp_title{font:26px "微软雅黑"; color:#fff; float:left; margin-top:50px; width:1400px; text-align:center;}
+.xy_zp{ float:left; margin-left:50px;margin-top:50px; }
+.xy_zp1{ float:left;margin-top:50px; }
+.xy_zp_1{ width:390px; height:252px; border-radius:32px; border: 1px solid RGBA(60,147,250,0.3);float:left;margin-right:60px;}
+.xy_zp_di{width:352px; height:216px; border-radius:23px; background-color:RGBA(255,255,255,0.25);float:left; margin:18px 19px;}
+.xy_zp_1_1{width:143px; height:143px; float:left; margin-left:25px; margin-top:35px;}
+.xy_zp_zi{ width:150px; height:150px; float:left; margin-left:15px;margin-top:35px;}
+.xy_zp_zi1{font:18px "微软雅黑"; color:#f6f0f0;}
+.xy_zp_zi2{font:10px "微软雅黑"; color:#f6f0f0; height:85px; line-height:25px; float:left; margin-top:5px;}
+.xy_zp_btn{width:95px; height:35px; cursor:pointer; float:right;}
+.xy_zp_fh{float:right; margin-right:100px; margin-top:350px;}
+.dilan6{ width:1400px; height:27px; background-image:url(../images/dilan.png); float:left; margin-top:20px;}
+.dilan6_zi{font:12px "微软雅黑"; color:#fff; float:left; margin-left:22px; margin-top:6px;}
+.dilan6_logo{ width:189px; height:26px;float:right; margin-right:22px;}
+/*学员作品信息*/
+
+.xy_lb1{ width:1400px; height:300px; float:left; margin-top:120px; margin-left:50px;}
+.xy_lb2{ width:1400px; height:300px; float:left; margin-top:10px; margin-left:50px;}
+.xy_lb_di1{ width:202px; height:202px; float:left; margin-left:35px; margin-right:25px; border-radius:32px; background-color:RGBA(255,255,255,0.25); cursor:pointer; }
+.xy_lb_a1{ width:170px; height:170px; float:left; margin-left:15px;margin-top:15px; background-image:url(../images/xy_2.png); background-repeat:no-repeat; position:absolute;} 
+.xy_lb_a2{  width:170px; height:170px; float:left; margin-left:15px;margin-top:15px; background-image:url(../images/xy_3.png); background-repeat:no-repeat; position:absolute;}
+.xy_lb_a3{ width:170px; height:170px;float:left; margin-left:15px;margin-top:15px;  background-image:url(../images/xy_4.png); background-repeat:no-repeat; position:absolute;}
+.xy_lb_a4{ width:170px; height:170px;float:left; margin-left:15px;margin-top:15px; background-image:url(../images/xy_5.png); background-repeat:no-repeat; position:absolute;}
+.xy_lb_a5{ width:170px; height:170px;float:left; margin-left:15px;margin-top:15px;  background-image:url(../images/xy_6.png); background-repeat:no-repeat; position:absolute;}
+.xy_lb_a6{ width:170px; height:170px;float:left; margin-left:15px;margin-top:15px;  background-image:url(../images/xy_2.png); background-repeat:no-repeat; position:absolute;} 
+.xy_lb_a7{ width:170px; height:170px; float:left; margin-left:15px;margin-top:15px;  background-image:url(../images/xy_3.png); background-repeat:no-repeat; position:absolute;}
+.xy_lb_a8{ width:170px; height:170px;float:left; margin-left:15px;margin-top:15px;  background-image:url(../images/xy_4.png); background-repeat:no-repeat; position:absolute;}
+.xy_lb_a9{ width:170px; height:170px;float:left; margin-left:15px;margin-top:15px; background-image:url(../images/xy_5.png); background-repeat:no-repeat; position:absolute;}
+.xy_lb_a10{ width:170px; height:170px;float:left; margin-left:15px;margin-top:15px;  background-image:url(../images/xy_6.png); background-repeat:no-repeat; position:absolute;}
+.xy_lb_di1:hover{width:200px; height:200px; border-radius:32px; border:1px solid RGBA(255,255,255,0.5);}
+.xy_lb_fh{ float:right; margin-right:75px; margin-top:-30px;}
+.xy_lb_next{ float:right; margin-right:25px; margin-top:-30px;}
+.dilan5{ width:1400px; height:27px; background-image:url(../images/dilan.png); float:left; margin-top:60px;}
+.dilan5_zi{font:12px "微软雅黑"; color:#fff; float:left; margin-left:22px; margin-top:6px;}
+.dilan5_logo{ width:189px; height:26px;float:right; margin-right:22px;}
+/*全体学员页面*/

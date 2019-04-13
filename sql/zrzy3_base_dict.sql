@@ -1,0 +1,9 @@
+INSERT INTO zrzy3.base_dict (id, name, type, status) VALUES ('01', '是否', '-1', '0201');
+INSERT INTO zrzy3.base_dict (id, name, type, status) VALUES ('0100', '否', '01', '0201');
+INSERT INTO zrzy3.base_dict (id, name, type, status) VALUES ('0101', '是', '01', '0201');
+INSERT INTO zrzy3.base_dict (id, name, type, status) VALUES ('02', '基础状态', '-1', '0201');
+INSERT INTO zrzy3.base_dict (id, name, type, status) VALUES ('0200', '冻结', '02', '0201');
+INSERT INTO zrzy3.base_dict (id, name, type, status) VALUES ('0201', '激活', '02', '0201');
+INSERT INTO zrzy3.base_dict (id, name, type, status) VALUES ('03', '性别', '-1', '0201');
+INSERT INTO zrzy3.base_dict (id, name, type, status) VALUES ('0300', '男', '03', '0201');
+INSERT INTO zrzy3.base_dict (id, name, type, status) VALUES ('0301', '女', '03', '0201');

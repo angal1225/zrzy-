@@ -1,0 +1,10 @@
+INSERT INTO zrzy3.role_info (role_id, role_name, role_status) VALUES (1, '管理员权限', '0201');
+INSERT INTO zrzy3.role_info (role_id, role_name, role_status) VALUES (2, 'CEO权限', '0200');
+INSERT INTO zrzy3.role_info (role_id, role_name, role_status) VALUES (3, '管理权限', '0202');
+INSERT INTO zrzy3.role_info (role_id, role_name, role_status) VALUES (10, '总经理', '0201');
+INSERT INTO zrzy3.role_info (role_id, role_name, role_status) VALUES (20, '采购经理', '0201');
+INSERT INTO zrzy3.role_info (role_id, role_name, role_status) VALUES (30, '销售经理', '0201');
+INSERT INTO zrzy3.role_info (role_id, role_name, role_status) VALUES (40, '采购员', '0201');
+INSERT INTO zrzy3.role_info (role_id, role_name, role_status) VALUES (50, '销售员', '0201');
+INSERT INTO zrzy3.role_info (role_id, role_name, role_status) VALUES (60, '库管员', '0201');
+INSERT INTO zrzy3.role_info (role_id, role_name, role_status) VALUES (81, 'CPLAF', '0201');

@@ -1,0 +1,2 @@
+INSERT INTO zrzy3.orderdetail_info (orderDetailId, goodId, goodName, money, num, price, state, p_rId) VALUES (1, 11, '鼠标', 48, 4, 12, '未入库', 33);
+INSERT INTO zrzy3.orderdetail_info (orderDetailId, goodId, goodName, money, num, price, state, p_rId) VALUES (2, 10, '汽车', 369, 3, 123, '未入库', 34);

@@ -1,0 +1,21 @@
+.table-input {
+	font-size: 12px;
+	margin: 0px auto;
+	margin-bottom:10px;
+	width:98%;
+	border-left:1px #C1DAD7 solid;
+	border-top:1px #C1DAD7 solid;
+}
+.table-input td {
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	font-size: 12px;
+	padding: 3px 6px 3px 12px;
+	color: #4f6b72;
+	white-space: normal;
+	height:auto;
+}
+.table-input td.alt {
+	background: #F5FAFA;
+	color: #797268;
+}

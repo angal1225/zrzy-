@@ -1,0 +1,37 @@
+/* ¿¡»ÀÕºø‚ À—ºØ’˚¿Ì www.lanrentuku.com */
+
+/*Ωπµ„Õº*/
+.focus{ position:relative; width:1305px; height:705px;float: left; margin-left:50px; margin-top:40px;}
+.focus .fPic{ position:absolute; left:0px; top:0px; }
+.btn_ka{ width:1153px; height:537px; margin:0 auto; }  
+.b_ka{ width:1153px; height:515px; margin:0 auto;}
+.focus .img{ width:277px; height:393px; border-radius:25px; background-color:RGBA(255,255,255,0.25); float:left; margin-left:147px;}  
+.focus .img1{ width: 255px; height: 369px;float:left;margin-left:12px; margin-top:12px;} 
+.img1_zi{width:452px; height:280px; float:right; margin-right:188px;}
+.img1_zi1{font:28px "Œ¢»Ì—≈∫⁄"; color:#8c0000; float:left; width:450px; margin-top:56px;}
+.img1_zi2{font:18px "Œ¢»Ì—≈∫⁄"; color:#f6f0f0; float:left;width:450px; margin-top:23px; opacity:0.8;}
+.img1_zi3{font:14px "Œ¢»Ì—≈∫⁄"; color:#f6f0f0; float:left; margin-top:55px; opacity:0.5;width:450px; height:135px; line-height:30px;}
+.xy_ck{ width:156px; height:52px; float:right; margin-right:12px; margin-top:15px; cursor:pointer;}
+
+.focus .D1fBt{ overflow:hidden; zoom:1;  height:210px; z-index:10;  }  
+.focus .fcon{ position:relative; width:100%; float:left;  display:none; }  
+.focus .fcon img{ display:block; }  
+.focus .fbg{bottom:10px; position:absolute; height:53px; z-index: 200; }  
+.focus .fbg div{margin:0 auto;overflow:hidden;zoom:1; height:205px; }    
+.focus .D1fBt a{position:relative; display:block;float:left; margin-left:36px; margin-right:15px;width:202px; height:202px; border-radius:32px; background-color:RGBA(255,255,255,0.25);}
+.a1{width:170px; height:170px;left:15px;top:15px;  position:absolute; background-image:url(../images/xy_2.png); background-repeat:no-repeat; background-size:170px 170px;} 
+.a2{ width:170px; height:170px;left:15px;top:15px;   position:absolute; background-image:url(../images/xy_3.png); background-repeat:no-repeat;  background-size:170px 170px;}
+.a3{ width:170px; height:170px;left:15px;top:15px;  position:absolute; background-image:url(../images/xy_4.png); background-repeat:no-repeat;  background-size:170px 170px;}
+.a4{ width:170px; height:170px;left:15px;top:15px;   position:absolute; background-image:url(../images/xy_5.png); background-repeat:no-repeat;  background-size:170px 170px;}
+.a5{ width:170px; height:170px;left:15px;top:15px;  position:absolute; background-image:url(../images/xy_6.png); background-repeat:no-repeat;  background-size:170px 170px;}
+.focus .D1fBt .current,.focus .D1fBt a:hover{ width:200px; height:200px; border-radius:32px; border:1px solid RGBA(255,255,255,0.5);  background-size:170px 170px;}    
+.focus .D1fBt img{display:none}    
+.focus .D1fBt i{display:none; font-style:normal; }    
+
+.xy_ka{ width:1233px; height:239px; background-image:url(../images/xy_k.png); float:left; margin-left:38px; margin-top:-357px;}
+.focus .prev{position:absolute;width:77px;height:77px;background: url(../images/prev.png) no-repeat;}
+.focus .next{position:absolute;width:77px;height:78px;background: url(../images/next.png) no-repeat;}
+.focus .prev{top: 20%;margin-top: -36px; left: 0;background-position:0 ; cursor:pointer; }  
+.focus .next{top: 20%;margin-top: -36px; right: 0;  background-position:0;  cursor:pointer;}  
+.focus .prev:hover{  background-position:0 0; }  
+.focus .next:hover{  background-position:0 0;}  

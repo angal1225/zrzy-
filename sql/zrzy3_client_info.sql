@@ -1,0 +1,2 @@
+INSERT INTO zrzy3.client_info (clientId, clientName, address, contacts, phone, mailBox) VALUES ('1', '阿里', '山西', '码云', '17636622019', '570430019@qq.com');
+INSERT INTO zrzy3.client_info (clientId, clientName, address, contacts, phone, mailBox) VALUES ('2', '百度', '123', '马云', '123', '1@1');

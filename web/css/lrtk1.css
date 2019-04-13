@@ -1,0 +1,40 @@
+/* ¿¡»ÀÕºø‚ À—ºØ’˚¿Ì www.lanrentuku.com */
+
+/*Ωπµ„Õº*/
+.focus{ position:relative; width:1305px; height:485px;float:left;margin-top:154px;margin-left:50px;}
+.focus .fPic{ position:absolute; left:0px; top:0px; }
+.btn_ka{ width:1153px; height:537px; margin:0 auto; }  
+.b_ka{ width:1153px; height:515px; margin:0 auto;}  
+.focus .img1{ width: 390px; height: 315px; float:right;margin-right:68px; margin-top:17px;} 
+.focus .img2{ width: 413px; height: 328px; float:right; margin-right:68px; margin-top:40px;}
+.img1_zi{width:550px; height:300px; float:left; margin-left:80px;}
+.img1_zi1{font:bolder 28px "Œ¢»Ì—≈∫⁄"; color:#8c0000; float:left; width:500px;}
+.img1_zi2{font:bolder 22px "Œ¢»Ì—≈∫⁄"; color:#fff; float:left;width:500px; margin-top:10px;}
+.img1_zi3{font: italic bolder 22px "Œ¢»Ì—≈∫⁄"; color:#fff; float:left; margin-top:20px; opacity:0.1;width:500px;}
+.img1_zi4{font:bolder 20px "Œ¢»Ì—≈∫⁄"; color:#fff; float:left;margin-top:45px;width:500px;}
+.img1_zi5{font:16px "Œ¢»Ì—≈∫⁄"; color:#fff; float:left;margin-top:17px; height:95px; line-height:30px;}
+
+.img2_zi{width:550px; height:335px; float:left; margin-left:80px;}
+.img2_zi1{font:bolder 28px "Œ¢»Ì—≈∫⁄"; color:#8c0000; float:left; width:500px;}
+.img2_zi2{font:bolder 22px "Œ¢»Ì—≈∫⁄"; color:#fff; float:left;width:500px;margin-top:10px;}
+.img2_zi3{font: italic bolder 22px "Œ¢»Ì—≈∫⁄"; color:#fff; float:left; margin-top:20px; opacity:0.1;width:500px;}
+.img2_zi4{font:bolder 20px "Œ¢»Ì—≈∫⁄"; color:#fff; float:left;margin-top:45px;width:500px;}
+.img2_zi5{font:16px "Œ¢»Ì—≈∫⁄"; color:#fff; float:left;margin-top:17px; height:95px; line-height:30px;}
+
+.focus .D1fBt{ overflow:hidden; zoom:1;  height:16px; z-index:10;  }  
+.focus .fcon{ position:relative; width:100%; float:left;  display:none; }  
+.focus .fcon img{ display:block; }  
+.focus .fbg{bottom:57px; right:40px; position:absolute; height:53px; text-align:center; z-index: 200; }  
+.focus .fbg div{margin:4px auto 0;overflow:hidden;zoom:1;height:53px}    
+.focus .D1fBt a{position:relative; display:block; width:53px; height:53px;color:#B0B0B0;  float:right; margin-right:183px;background-image:url(../images/js_btn2.png); }    
+.focus .D1fBt .current,.focus .D1fBt a:hover{ background-image:url(../images/js_btn1.png);}    
+.focus .D1fBt img{display:none}    
+.focus .D1fBt i{display:none; font-style:normal; }    
+.xm_ka{ width:1234px; height:324px; background-image:url(../images/xm_k.png); float:left; margin-left:38px; margin-top:-400px;}
+
+.focus .prev{position:absolute;width:77px;height:77px;background: url(../images/prev.png) no-repeat;}
+.focus .next{position:absolute;width:77px;height:78px;background: url(../images/next.png) no-repeat;}
+.focus .prev{top: 19.8%;margin-top: -36px; left: 0;background-position:0 ; cursor:pointer; }  
+.focus .next{top: 19.8%;margin-top: -36px; right: 0;  background-position:0;  cursor:pointer;}  
+.focus .prev:hover{  background-position:0 0; }  
+.focus .next:hover{  background-position:0 0;}  
